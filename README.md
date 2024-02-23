@@ -1,6 +1,11 @@
 ![logo](https://github.com/ahaseeb001/ahaseeb001/blob/main/1670602482212.jpeg)
 <h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
+<h3 align="center">if(today < yesterday){ </h3>
+<h3 align="center"> self.improve() </h3>
+<h3 align="center">}else { </h3>
+<h3 align="center">KeepGoing() </h3>
+<h3 align="center">} </h3>
 
 <image src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRvZnlrYWx2eXowNDlnMXdjdHRreWh6c3JhYjg0cDNqOHh1eGN3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif' width='400' alt='coding' align='right'/>
 
